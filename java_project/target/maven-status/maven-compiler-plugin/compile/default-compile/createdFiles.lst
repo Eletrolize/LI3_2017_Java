@@ -1,0 +1,16 @@
+engine/ComparatorReviewByTextWords.class
+engine/Article.class
+engine/ComparatorArticleByTextSize.class
+li3/Interface.class
+engine/ComparatorStringTitle.class
+engine/QueryEngineImpl.class
+engine/ComparatorContributorByReviews.class
+engine/CatContributors.class
+common/MyLog.class
+engine/Review.class
+engine/Contributor.class
+engine/ComparatorArticleByTextWords.class
+engine/CatArticles.class
+engine/ComparatorReviewByTextSize.class
+li3/Main.class
+engine/Parser.class
